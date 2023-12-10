@@ -1,6 +1,5 @@
 name "DRIFTYY_777"
 
-
 .MODEL SMALL 
 .STACK 100H 
 .DATA 
